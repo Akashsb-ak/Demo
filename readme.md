@@ -1,1 +1,1 @@
-echo "Hello AK changes"
+echo "Hello AK"
